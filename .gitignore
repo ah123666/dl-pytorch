@@ -1,0 +1,6 @@
+/AutoEncoder/mnist
+/Cifar10/cifar_data
+/Mnist/mnist_data
+/Pokemon/pokemon
+/Pokemon/*.zip
+/Pokemon/best.zzl
